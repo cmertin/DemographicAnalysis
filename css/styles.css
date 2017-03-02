@@ -8,7 +8,8 @@ body{
 h1 {
     font-size:35px;
     color: #e0e0e0;
-    margin: 10px;
+    margin: 0px;
+    padding: 0px;
 }
 
 h2{
